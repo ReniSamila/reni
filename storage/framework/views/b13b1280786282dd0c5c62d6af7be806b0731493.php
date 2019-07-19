@@ -745,3 +745,4 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 
 	</body>
 </html>
+<?php /**PATH C:\xampp\htdocs\PrakerinMila\resources\views/welcome.blade.php ENDPATH**/ ?>
